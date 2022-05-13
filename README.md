@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrakadabra99
 - 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning Communication Systems and Networks
+- 🌱 I’m currently studying Communication Systems and Networks
 - 💞️ I’m looking to collaborate on Network System's Software Development
 - 📫 How to reach me: 
 serkankutludag@gmail.com
